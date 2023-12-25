@@ -1,1 +1,1 @@
-Profile #,Profile Name,fullName,firstName,lastName,phoneNumber,addressLine1,addressLine2,ccNumbers,expiryMonth,expiryYear,CVV
+Profile #,Profile Name,fullName,firstName,lastName,phoneNumber,addressLine1,addressLine2,city,province,postalCode,ccNumbers,expiryMonth,expiryYear,CVV
